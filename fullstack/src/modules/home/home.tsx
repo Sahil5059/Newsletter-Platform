@@ -1,6 +1,10 @@
 //imports
 import Header from "@/shared/widgets/header/header";
 import Banner from "./features/banner";
+import Branding from "./features/branding";
+import Benefits from "./features/benefits";
+import FeatureHighlight from "./features/feature.highlight";
+import Pricing from "./features/pricing";
 
 const Home = () => {
   return (
@@ -8,6 +12,10 @@ const Home = () => {
         {/* watch- 24:45 to 25:15 */}
         <Header />
         <Banner />
+        <Branding />
+        <Benefits />
+        <FeatureHighlight />
+        <Pricing />
     </div>
   )
 }

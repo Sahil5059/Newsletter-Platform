@@ -50,6 +50,7 @@ const Banner = () => {
 					<h5 className="text-center text-lg">
 						Start a 30 day free trial
 					</h5>
+					{/* Don't forget to code "./index.ts" */}
 				</div>
 			</div>
 		</div>

@@ -18,6 +18,7 @@ const Header = () => {
 			<div className="flex items-center gap-3">
 				<Toolbar />
 			</div>
+			{/* Don't forget to code "./index.ts" */}
 		</header>
 	)
 }
