@@ -91,9 +91,6 @@ export const partners: PartnersTypes[] = [
       title: "Referal program",
     },
     {
-      title: "AI support",
-    },
-    {
       title: "Advanced support system",
     },
     {
